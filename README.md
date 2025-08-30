@@ -23,12 +23,12 @@ Youtube Video Campaign: Helping a Coffee Brand Acquire Online Sales Through Vide
 - Campaign Type: Video
 - Objective: Sales
 - Timeframe: 1 Month
-- Product- Range of Coffee Products
+- Product: Range of Coffee Products
 
 ---
 
 ## ❓Why this project ?
-- Video Ads are currently one of the most effective way guranteed to accomplish Business Online Objectives. As video campaigns are extremly helpful when it comes to promoting product especially FMCG products. The conversion rate is high. Therefore I chose this topic of Coffee and took Jacobs Kaffee as a reference fr my mock campaign as I am  myself also a Jacobs customer. Rather then only mentioning Google Ads Skill into CV I prefer to make a tiny effort a make a draft mock campaign.
+- Video Ads are currently one of the most effective way guranteed to accomplish Business Online Objectives. As video campaigns are extremly helpful when it comes to promoting product especially FMCG products. The conversion rate is high. Therefore I chose this topic of Coffee and took Jacobs Kaffee as a reference for my mock campaign as I am  myself also a Jacobs customer. Rather then only mentioning Google Ads Skill into CV I prefer to make a tiny effort a make a draft mock campaign.
 - Through this project I learned how to design Video Ads Campaign through Google Ads. Placement targeting holds one the key importance when designing a Video Campaings. Also having the perfect video is extremly important especially for a Instream Skippable Ad Type as the attention span to capture the customer is too less hence having a Hook in the video is crucial.
 - One more realisation I got during this campaign is that the technique to create Headlines and Descriptions in Video Campaign is very different to Normal Campaings as the more importance is on video first but Headline also should be very Hookish.
 
@@ -45,8 +45,8 @@ Youtube Video Campaign: Helping a Coffee Brand Acquire Online Sales Through Vide
 - Goal: Conversions
 - Location: Big cities of Germany
 - Budget: 1000 Euros 
-- Timing- 6AM - 6PM ( majority coffee gets consumed between this timeframe )
-- Channels- Youtube in feed, Youtube in shorts, Discover etc.
+- Timing: 6AM - 6PM ( majority coffee gets consumed between this timeframe )
+- Channels: Youtube in feed, Youtube in shorts, Discover etc.
 - Audience Segment : Black Coffee Lovers, Working &  Professionals Coffee Lovers
 
 ---
